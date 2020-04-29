@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <title>Suhaib Bin Younis 563dc6cc </title>
+  <title>563dc6cc</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Guessing Game for Ivan Neradovic d04863f1</title>
